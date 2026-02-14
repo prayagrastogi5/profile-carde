@@ -1,1 +1,1 @@
-# profile-carde
+# profile-card
